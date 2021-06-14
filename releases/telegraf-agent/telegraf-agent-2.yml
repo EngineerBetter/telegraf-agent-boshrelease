@@ -1,0 +1,21 @@
+name: telegraf-agent
+version: "2"
+commit_hash: "8774272"
+uncommitted_changes: false
+jobs:
+- name: telegraf-agent
+  version: 884bc162f715aafc6d9d07df3afe895d7ca7a05dd76127b7522ab62565320881
+  fingerprint: 884bc162f715aafc6d9d07df3afe895d7ca7a05dd76127b7522ab62565320881
+  sha1: sha256:40077fd4d0ea1fabb4d260873d9b8ba26a6c580c91a4bf1650737793412a7df7
+  packages:
+  - telegraf-agent
+packages:
+- name: telegraf-agent
+  version: 983ac4cac00f83ce0c1408929f8b7af02376b44e636d1ca68bedde3717afd735
+  fingerprint: 983ac4cac00f83ce0c1408929f8b7af02376b44e636d1ca68bedde3717afd735
+  sha1: sha256:e0ebae81edb6c07117e72d79523b8e3e9073279d1ee4550db9b43ba3a8f2daa9
+  dependencies: []
+license:
+  version: 06fe45897b08088c04a79479908ee81b9482e725ede52981486061d486f8f32e
+  fingerprint: 06fe45897b08088c04a79479908ee81b9482e725ede52981486061d486f8f32e
+  sha1: sha256:07e579d20c2f619d0f8b6f62b4f2e8e324d9826d5137a46c483ff7956bd57114
